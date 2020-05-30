@@ -1,5 +1,10 @@
 /* Center text */
 .topic {
   text-align: center;
+}
+
+/* Center text and colored header */
+.topic-header {
+  text-align: center;
   background-color: #00FF00;
 }
